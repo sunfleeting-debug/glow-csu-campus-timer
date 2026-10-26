@@ -108,7 +108,7 @@ assets/preview/             16 张正式光影图与图版
   parts/                    9 张独立构件大图
 assets/animation/           v19 整机转台 GIF
 models/                     Blender 源文件、交换文件校验清单
-scripts/                    摄影、爆炸分组及图集打包源码
+scripts/                    摄影、爆炸分组及源文件校验源码
 docs/                       查看说明、设计尺寸、结构和校验资料
   validation/               源文件只读记录与模型校验 JSON
 ```
