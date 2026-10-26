@@ -1,0 +1,63 @@
+{
+  "source": "models/逐光中南_v19.blend",
+  "source_sha256": "f84e40c1fa325e0db82489f359376ceb03d16723b42321fa6d791ca46105b3c1",
+  "mode": "bottom",
+  "source_geometry_and_world_transforms_unchanged": true,
+  "source_file_not_saved": true,
+  "isolation_includes": [
+    "MESH",
+    "CURVE",
+    "FONT",
+    "SURFACE",
+    "META",
+    "CURVES",
+    "VOLUME",
+    "POINTCLOUD"
+  ],
+  "all_group_counts": {
+    "gate": 40,
+    "landscape": 1662,
+    "platform": 48,
+    "housing": 169,
+    "led_ring": 313,
+    "main_pcb": 203,
+    "carrier": 30,
+    "rotor": 283,
+    "bottom": 13
+  },
+  "images": {
+    "09_底盖与防滑脚_光影版": {
+      "image": "assets/preview/parts/09-bottom-cover.png",
+      "resolution": [
+        1800,
+        1550
+      ],
+      "model_projected_bbox_px": [
+        125.99992007017136,
+        315.0722235441208,
+        1673.999798297882,
+        1234.9275454878807
+      ],
+      "visible_component_objects": 13,
+      "visible_names": [
+        "BASE | independent bottom cover",
+        "BASE | rubber foot",
+        "BASE | rubber foot.001",
+        "BASE | rubber foot.002",
+        "BASE | rubber foot.003",
+        "BASE_V2 | recessed screw head",
+        "BASE_V2 | recessed screw head.001",
+        "BASE_V2 | recessed screw head.002",
+        "BASE_V2 | recessed screw head.003",
+        "BASE_V2 | screw slot",
+        "BASE_V2 | screw slot.001",
+        "BASE_V2 | screw slot.002",
+        "BASE_V2 | screw slot.003"
+      ],
+      "camera_ortho_width_m": 0.17787133157253265,
+      "independent_studio_lights": 4,
+      "underside_lighting": false,
+      "source_geometry_modified": false
+    }
+  }
+}

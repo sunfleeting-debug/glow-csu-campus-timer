@@ -1,0 +1,29 @@
+{
+  "version": "v19",
+  "files": [
+    {
+      "name": "逐光中南_v19.blend",
+      "bytes": 41952785,
+      "sha256": "f84e40c1fa325e0db82489f359376ceb03d16723b42321fa6d791ca46105b3c1",
+      "distribution": "git-and-release"
+    },
+    {
+      "name": "逐光中南_v19.glb",
+      "bytes": 98713980,
+      "sha256": "054aff676c67ec7a891e71e530c6f7178cbbf8ff5792a175db19375385d035e4",
+      "distribution": "release"
+    },
+    {
+      "name": "逐光中南_v19.obj",
+      "bytes": 252780597,
+      "sha256": "f44f1558eaf0d5036d9214b1b38f4a1086be44166ab3f1f92c9545b0530250de",
+      "distribution": "release"
+    },
+    {
+      "name": "逐光中南_v19.mtl",
+      "bytes": 14201,
+      "sha256": "e89cb47bfef9822c91099f12aa057c13af39079b54a207614d8c969c4476975d",
+      "distribution": "release"
+    }
+  ]
+}

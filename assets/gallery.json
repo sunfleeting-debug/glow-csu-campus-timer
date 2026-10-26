@@ -1,0 +1,131 @@
+{
+  "image_count": 25,
+  "source_version": "v19",
+  "images": [
+    {
+      "path": "assets/preview/hero.png",
+      "original_name": "整体效果图_光影版.png",
+      "sha256": "54eb9d01441ce3ca4dbf8bc0f08d368312f80b0c92b7cf63abb0d31455cd4b40"
+    },
+    {
+      "path": "assets/preview/exploded.png",
+      "original_name": "拆解爆炸图_v19_光影双栏.png",
+      "sha256": "24e4a15499d86663e10d2145e49ae481740d27ac658385d9fc9c45ab37deeecf"
+    },
+    {
+      "path": "assets/preview/components.png",
+      "original_name": "九组构件_光影放大总览.png",
+      "sha256": "b65a011b1be06fb26c428348571622a9d0d72efa6cdf205119c52d6fc856078a"
+    },
+    {
+      "path": "assets/preview/electronics.png",
+      "original_name": "电子结构装配_光影版.png",
+      "sha256": "dbc8c02ca0a23cbc17b5c48d814079cc5feda17b518fa1e8ce8a3edfe3b16ac0"
+    },
+    {
+      "path": "assets/preview/pcb.png",
+      "original_name": "灯光控制主板特写_光影版.png",
+      "sha256": "bd12aa5b319c98472232dc7c2006e7f919592e8f62bc8b8afa21e22d1734f7f3"
+    },
+    {
+      "path": "assets/preview/led-ring.png",
+      "original_name": "环形LED灯板特写_光影版.png",
+      "sha256": "d5c96a6203145690d96d1a729e84d57243f2ddc1cf67de1ca229069b757f4192"
+    },
+    {
+      "path": "assets/preview/front.png",
+      "original_name": "正视图_光影版.png",
+      "sha256": "1bc9d4ec2b330f54483921d1f65a89df6f2794854b925ebc431c5e1b198f3064"
+    },
+    {
+      "path": "assets/preview/rear.png",
+      "original_name": "背面效果图_光影版.png",
+      "sha256": "f9c63aa2b75ce78f9189bdf83815fe0ba31f00b0cb5faecdadb0a01edadd1244"
+    },
+    {
+      "path": "assets/preview/side.png",
+      "original_name": "侧视图_光影版.png",
+      "sha256": "12f30f4d8e4d9d7f66c7dd6f78e60ca5ebdb7c85176ecf8764d690e92b5d495f"
+    },
+    {
+      "path": "assets/preview/top.png",
+      "original_name": "俯视图_光影版.png",
+      "sha256": "69a8af435e95eb2315b2ff76e39aa12253be5d66e1c9426a1f09fcd4ecde072f"
+    },
+    {
+      "path": "assets/preview/gate-detail.png",
+      "original_name": "复刻校门雕刻特写_光影版.png",
+      "sha256": "4dd884061f58c26de27d000bb8d8755946497a11365faf38ea443529aea0afac"
+    },
+    {
+      "path": "assets/preview/left-motto.png",
+      "original_name": "左侧校训_光影版.png",
+      "sha256": "75be44294243ae19fa1f7be47fc56a94a552c40409f8d5a7b4fc45ab12afa0f9"
+    },
+    {
+      "path": "assets/preview/right-motto.png",
+      "original_name": "右侧校训_光影版.png",
+      "sha256": "ed419a094a2ee77f42137426a090c66f4352389b9e81320daa79404258e6fc93"
+    },
+    {
+      "path": "assets/preview/back-emblems.png",
+      "original_name": "背面矿业湘雅_光影版.png",
+      "sha256": "20ad9a0a15a6843fb3942ba1c607cf28ca76e8ee82e4cf16768e615794583911"
+    },
+    {
+      "path": "assets/preview/dial-detail.png",
+      "original_name": "360度刻度_光影版.png",
+      "sha256": "fb4514a6004a6a8f03eb16cb85dff9fd110b12a00a9f50f65dc1c11d7995260f"
+    },
+    {
+      "path": "assets/preview/harness.png",
+      "original_name": "固定线束接口_光影版.png",
+      "sha256": "6b23e7c7468ead08825ea9b98e816dc17e23a3dc7ee629719ff07de76f682dcf"
+    },
+    {
+      "path": "assets/preview/parts/01-gate.png",
+      "original_name": "01_复刻校门与浅浮雕_光影版.png",
+      "sha256": "80bd5e3685b1d8a9484aa603453ac4e5b39e45d5b6777ee76053e9b674335fa0"
+    },
+    {
+      "path": "assets/preview/parts/02-campus.png",
+      "original_name": "02_校园建筑与园景_光影版.png",
+      "sha256": "ae499cb63cd3b540bd347ae0a87b1630c21ac9b7979f954120a2684cc6f80baa"
+    },
+    {
+      "path": "assets/preview/parts/03-platform.png",
+      "original_name": "03_承托平台与铺地_光影版.png",
+      "sha256": "b9c9f16908135bf6d35469e2a69b412a6cbb77de4f2486b2029cf5ebebb051ef"
+    },
+    {
+      "path": "assets/preview/parts/04-housing.png",
+      "original_name": "04_固定上壳与导光环_光影版.png",
+      "sha256": "8a3c3c9072600d8eb140d1ea96f38814b062af9ababea941202841ccea32a25d"
+    },
+    {
+      "path": "assets/preview/parts/05-led-ring.png",
+      "original_name": "05_环形 LED 灯板_光影版.png",
+      "sha256": "b71f04e720e7e20d6892fc80b2829931824536f2c5354709b5669fd64ff97a22"
+    },
+    {
+      "path": "assets/preview/parts/06-controller-pcb.png",
+      "original_name": "06_灯光控制主板_光影版.png",
+      "sha256": "f1eee28bd6b1aba02c125a4949fce35255baa647fb0c3516f256267d9a2d6544"
+    },
+    {
+      "path": "assets/preview/parts/07-carrier.png",
+      "original_name": "07_安装托架与固定支柱_光影版.png",
+      "sha256": "105864f6efff354e610f1f1cfc85620b3ec9300fbb90223f7855ed7b276f0000"
+    },
+    {
+      "path": "assets/preview/parts/08-rotating-base.png",
+      "original_name": "08_360°旋转计时底座_光影版.png",
+      "sha256": "29c76864df8c15227e8c9b6f170e04a677be920e946454d8fb0becf27a228650"
+    },
+    {
+      "path": "assets/preview/parts/09-bottom-cover.png",
+      "original_name": "09_底盖与防滑脚_光影版.png",
+      "sha256": "4cdfeb8596c9ac4cc0cb8a942e876271a228847e28cb5722bfd069c938de4b58"
+    }
+  ]
+}

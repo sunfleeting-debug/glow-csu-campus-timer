@@ -1,0 +1,225 @@
+{
+  "source_blend": "models/逐光中南_v19.blend",
+  "units": "mm",
+  "ver": "v19（v18 场景换装 1:1 复刻校门 · 锥柱版）",
+  "basis": "中南大学岳麓山校区（校本部）校门 1:1 复刻模型（总高 9445 / 门洞净宽 6950 / 柱宽 1625，真实米制）整体缩放后并入 逐光中南 场景；柱轴距与 v18 原校门对齐。",
+  "merge_scale": 0.012435130112850655,
+  "merge_scale_note": "= v18 柱轴距 106.63124071769435 mm ÷ 复刻模型柱轴距 8575 mm（1 : 80.42）",
+  "placement": {
+    "plinth_bottom_z_mm": 65.154,
+    "depth_center_y_mm": -13.571,
+    "parent": "CONTROL_V14 | gate scale about platform",
+    "collection": "03_GATE_ARCHITECTURE"
+  },
+  "overall": {
+    "min": [
+      -73.127,
+      -32.97,
+      65.154
+    ],
+    "max": [
+      73.127,
+      5.828,
+      186.384
+    ],
+    "dimensions": [
+      146.255,
+      38.798,
+      121.23
+    ],
+    "note": "总高含柱顶避雷针；主体（檐口顶）高度见 gate_body_height_mm"
+  },
+  "column_axis_spacing_mm": 106.632,
+  "clear_opening_mm": 86.425,
+  "column_body": {
+    "profile": {
+      "object": "柱身_左",
+      "z_range_mm": [
+        74.48,
+        137.899
+      ],
+      "height_mm": 63.419,
+      "bottom": {
+        "z_mm": 74.48,
+        "x_span_mm": 20.207,
+        "y_span_mm": 30.466,
+        "x_center_mm": -53.316,
+        "n": 56
+      },
+      "top": {
+        "z_mm": 137.899,
+        "x_span_mm": 12.73,
+        "y_span_mm": 19.194,
+        "x_center_mm": -53.316,
+        "n": 56
+      }
+    },
+    "shaft_taper_top_over_bottom": 0.63,
+    "note": "柱身收分 SHAFT_TAPER=0.63（复刻原版 0.92）；v18 原柱为 21.33/33.93=0.629"
+  },
+  "parts_count": 40,
+  "tris": 215224,
+  "parts": [
+    {
+      "name": "上柱_右"
+    },
+    {
+      "name": "上柱_左"
+    },
+    {
+      "name": "上柱壁柱_右"
+    },
+    {
+      "name": "上柱壁柱_左"
+    },
+    {
+      "name": "上柱檐口_右"
+    },
+    {
+      "name": "上柱檐口_左"
+    },
+    {
+      "name": "侧面板_右_内"
+    },
+    {
+      "name": "侧面板_右_外"
+    },
+    {
+      "name": "侧面板_左_内"
+    },
+    {
+      "name": "侧面板_左_外"
+    },
+    {
+      "name": "匾额_前"
+    },
+    {
+      "name": "匾额_后"
+    },
+    {
+      "name": "卷草带_右"
+    },
+    {
+      "name": "卷草带_左"
+    },
+    {
+      "name": "台基_右"
+    },
+    {
+      "name": "台基_左"
+    },
+    {
+      "name": "平板_右"
+    },
+    {
+      "name": "平板_左"
+    },
+    {
+      "name": "投光灯"
+    },
+    {
+      "name": "束带_右"
+    },
+    {
+      "name": "束带_左"
+    },
+    {
+      "name": "柱头卷涡_右"
+    },
+    {
+      "name": "柱头卷涡_左"
+    },
+    {
+      "name": "柱头箍_右"
+    },
+    {
+      "name": "柱头箍_左"
+    },
+    {
+      "name": "柱头鳞纹_右"
+    },
+    {
+      "name": "柱头鳞纹_左"
+    },
+    {
+      "name": "柱础_右"
+    },
+    {
+      "name": "柱础_左"
+    },
+    {
+      "name": "柱身_右"
+    },
+    {
+      "name": "柱身_左"
+    },
+    {
+      "name": "藤蔓浮雕_右_前"
+    },
+    {
+      "name": "藤蔓浮雕_右_后"
+    },
+    {
+      "name": "藤蔓浮雕_左_前"
+    },
+    {
+      "name": "藤蔓浮雕_左_后"
+    },
+    {
+      "name": "避雷针_右"
+    },
+    {
+      "name": "避雷针_左"
+    },
+    {
+      "name": "铁艺灯架_右"
+    },
+    {
+      "name": "铁艺灯架_左"
+    },
+    {
+      "name": "额枋"
+    }
+  ],
+  "removed_v18_gate": {
+    "objects": 360,
+    "collections": [
+      "03_GATE_ARCHITECTURE",
+      "04_BOTANICAL_RELIEF",
+      "10_CSU_CALLIGRAPHIC_INSCRIPTIONS",
+      "25_GATE_ARCHITECTURAL_DETAILS",
+      "16_CONCEALED_PORTAL_LIGHT（仅 4 条灯槽曲线）"
+    ],
+    "extra": [
+      "REAR_V7 | gate reverse fine frame",
+      "REAR_V7 | gate reverse motto"
+    ]
+  },
+  "kept_v18": [
+    "全部场地 / 建筑 / 绿化 / 书本 / 台面 / 底座 / 刻度 / 灯板 / 电子 / 线束",
+    "全部相机、灯光、241 帧动画与控制器空物体",
+    "16_CONCEALED_PORTAL_LIGHT 的 7 只灯（门洞暖光）"
+  ],
+  "compare_v18": {
+    "总宽_mm": {
+      "v18": 147.578,
+      "v19": 146.255
+    },
+    "总高_mm": {
+      "v18": 97.221,
+      "v19": 121.23
+    },
+    "总深_mm": {
+      "v18": 40.946,
+      "v19": 38.798
+    },
+    "柱轴距_mm": {
+      "v18": 106.631,
+      "v19": 106.632
+    },
+    "柱身_mm": {
+      "v18": "33.93 → 21.33（圆形）",
+      "v19": "20.207 → 12.73（跑道形）"
+    }
+  }
+}

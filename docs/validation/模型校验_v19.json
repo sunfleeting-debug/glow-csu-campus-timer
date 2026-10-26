@@ -1,0 +1,115 @@
+{
+  "source": "models/逐光中南_v19.blend",
+  "source_sha256": "f84e40c1fa325e0db82489f359376ceb03d16723b42321fa6d791ca46105b3c1",
+  "read_only_validation": true,
+  "checks": {
+    "overall_bbox_mm": {
+      "min": [
+        -82.683,
+        -86.525,
+        -1.14
+      ],
+      "max": [
+        82.683,
+        83.768,
+        186.384
+      ],
+      "dimensions": [
+        165.367,
+        170.293,
+        187.524
+      ],
+      "meshes": 2454
+    },
+    "platform_horizontal_extent_mm": [
+      165.0,
+      165.0
+    ],
+    "housing_horizontal_extent_mm": [
+      165.367,
+      170.293
+    ],
+    "gate": {
+      "mesh_objects": 40,
+      "bbox_mm": {
+        "min": [
+          -73.127,
+          -32.97,
+          65.154
+        ],
+        "max": [
+          73.127,
+          5.828,
+          186.384
+        ]
+      },
+      "dimensions_mm": [
+        146.255,
+        38.798,
+        121.23
+      ]
+    },
+    "v18_gate_remnants": 0,
+    "rotor_top_z_mm": 30.789,
+    "electronics_min_z_mm": 33.3,
+    "minimum_vertical_rotor_gap_mm": 2.511,
+    "explosion": {
+      "layers": 9,
+      "order_top_to_bottom": [
+        "gate",
+        "landscape",
+        "platform",
+        "housing",
+        "led_ring",
+        "main_pcb",
+        "carrier",
+        "rotor",
+        "bottom"
+      ],
+      "screen_gaps_px": [
+        30.4,
+        21.6,
+        21.7,
+        21.7,
+        21.7,
+        21.7,
+        21.6,
+        21.6
+      ],
+      "min_gap_px": 21.6,
+      "px_per_mm": 2.7100000381469727,
+      "canvas": [
+        2200,
+        3600
+      ]
+    },
+    "unassigned_visible_meshes": [],
+    "unassigned_visible_count": 0,
+    "animation": {
+      "frame_range": [
+        1,
+        241
+      ],
+      "empty_controllers": [
+        "CONTROL_V14 | gate scale about platform",
+        "CONTROL_V15 | complete single heritage building",
+        "CONTROL_V15 | rotate complete lower base 360 degrees",
+        "CONTROL_V15 | whole product 360 display",
+        "CONTROL_V16 | UPPER complete scene 1.25",
+        "CONTROL_V17 | platform diameter 165 mm",
+        "CONTROL_V18 | stationary lighting electronics"
+      ]
+    },
+    "glb": {
+      "file": "models/逐光中南_v19.glb",
+      "bytes": 98713980,
+      "version": 2,
+      "meshes": 2803,
+      "nodes": 2812,
+      "materials": 73,
+      "images": 1
+    }
+  },
+  "failures": [],
+  "passed": true
+}

@@ -1,0 +1,21 @@
+# Generated outputs, large exchange formats and local environments
+output/
+runtime/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.blend[0-9]
+*.log
+*.tmp
+*.zip
+*.glb
+*.obj
+*.mtl
+.env
+.env.*
+!.env.example
+*token*
+*secret*
+.DS_Store
+Thumbs.db

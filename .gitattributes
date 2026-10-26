@@ -1,0 +1,7 @@
+* text=auto
+*.blend binary
+*.png binary
+*.gif binary
+*.json text eol=lf
+*.py text eol=lf
+*.md text eol=lf
